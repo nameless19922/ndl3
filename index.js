@@ -1,5 +1,5 @@
 const
-	config = require('./config'),
+    config = require('./config'),
 	listeners = require('./listeners'),
 	ChatApp = require('./chatapp');
 
